@@ -1,0 +1,13 @@
+# Ignorar a extensão Jupyter Notebook das estatísticas de linguagem
+*.ipynb linguist-detectable=false
+
+# Forçar o GitHub a ler o conteúdo das células como Python
+*.ipynb linguist-language=Python
+
+# Garantir que arquivos de Web Dev sejam detectados corretamente
+*.js linguist-language=JavaScript
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+
+# Se você tiver arquivos de documentação que não quer que contem na barra de cores
+docs/* linguist-documentation
