@@ -1,25 +1,25 @@
-# Alura-Courses
+# Alura Courses 🚀
 
-# 🚀 Meus Estudos - Alura
+# 🚀 My Learning Journey - Alura
 
-Este repositório é dedicado ao armazenamento de códigos, exercícios e projetos práticos desenvolvidos durante os cursos da plataforma **Alura**. 
+This repository is dedicated to storing code, exercises, and practical projects developed during my studies at the **Alura** platform.
 
-O objetivo é registrar minha evolução em diferentes tecnologias e manter um histórico organizado do meu aprendizado contínuo.
-
----
-
-## 🛠️ Cursos em Andamento / Concluídos
-
-### 🟨 JavaScript e Lógica de Programação
-* **Curso:** Lógica de Programação: mergulhe em programação com JavaScript
-* **Pasta:** `logica-programacao-mergulhe-programacao-javascript`
-* **O que aprendi:** Variáveis, condicionais (`if/else`), loops (`while`), concatenação e boas práticas de escrita de código.
+The goal is to track my evolution in different technologies and maintain an organized history of my continuous learning.
 
 ---
 
-## 📂 Como está organizado?
-Cada curso possui sua própria pasta, seguindo a estrutura:
-`Nome-do-Curso / Nome-do-Projeto / arquivos-do-codigo`
+## 🛠️ Courses in Progress / Completed
+
+### 🟨 JavaScript and Programming Logic
+* **Course:** Programming Logic: dive into programming with JavaScript
+* **Folder:** `logica-programacao-mergulhe-programacao-javascript`
+* **What I learned:** Variables, conditionals (`if/else`), loops (`while`), concatenation, and coding best practices.
 
 ---
-*Estudos realizados por: Juan Duarte*
+
+## 📂 Project Organization
+Each course has its own folder, following this structure:
+`Course-Name / Project-Name / source-code-files`
+
+---
+*Studies by: Juan Duarte*
