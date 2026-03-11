@@ -1,9 +1,0 @@
-import serial
-import time
-
-arduino = serial.Serial('COM3', 9600)  # Troque COM3 pela sua porta
-time.sleep(2)
-
-while True:
-    angulo = input("Digite um ângulo (0 a 180): ")
-    arduino.write(angulo.encode())
