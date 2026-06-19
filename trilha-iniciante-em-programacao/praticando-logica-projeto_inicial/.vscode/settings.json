@@ -1,0 +1,5 @@
+{
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.suggest.selectionMode": "always",
+    "editor.quickSuggestionsDelay": 10
+}
