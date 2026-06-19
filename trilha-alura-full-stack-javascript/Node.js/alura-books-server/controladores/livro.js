@@ -1,6 +1,6 @@
-function getLivros () {
+function getLivros(req, res) {
     try {
-        res.send('Olá mundo da Alura do Brasil!')
+        res.send('Olá mundo da Alura do Brasil')
     } catch (error) {
         res.status(500)
         res.send(error.message)
@@ -10,3 +10,5 @@ function getLivros () {
 module.exports = {
     getLivros
 }
+
+sdsd
