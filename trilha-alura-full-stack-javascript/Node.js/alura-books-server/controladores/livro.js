@@ -10,5 +10,3 @@ function getLivros(req, res) {
 module.exports = {
     getLivros
 }
-
-sdsd
